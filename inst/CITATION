@@ -1,18 +1,15 @@
 citHeader("To cite the package 'litRiddle' in publications use:")
 
-citEntry(entry="Article",
+citEntry(entry="InProceedings",
          title = "Exploring conventions of literariness using R",
          author = personList(as.person("Maciej Eder"),
                              as.person("Joris van Zundert"),
                              as.person("Corina Koolen"),
                              as.person("Karina van Dalen-Oskam")),
-         journal      = "",
+         booktitle    = "(forthcoming)",
          year         = "2017",
-         volume       = "(forthcoming)",
-         number       = "",
-         pages        = "",
+         pages        = "(forthcoming)",
          url          = "http://literaryquality.huygens.knaw.nl/",
-
          textVersion =
          paste("Eder, M., van Zundert, J., Koolen, C. and van Dalen-Oskam, 
                 K. (2017). ",

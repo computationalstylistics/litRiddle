@@ -20,8 +20,9 @@ Maciej Eder, Joris van Zundert, Corina Koolen, Karina van Dalen-Oskam
 }
 \seealso{
 ~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
+~~ \code{\link{reviews}} ~~
 }
 \examples{
-~~ simple examples of the most important functions ~~
+data(reviews)
+
 }

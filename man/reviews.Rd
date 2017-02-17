@@ -41,7 +41,7 @@ reviews$Statement_12a (How literary a reader do you consider yourself to be)
 The respondent indicates to be a not very literary (1) or a very literary (7) reader
 reviews$Statement_12b1 (I. I like novels based on real events)
 The respondent stated to very much agree (1) with the statement or very much disagree (5), 6 = do not know
-reviews$Statement_12b2 (J. I like thinking about a novel’s structure)
+reviews$Statement_12b2 (J. I like thinking about a novel's structure)
 The respondent stated to very much agree (1) with the statement or very much disagree (5), 6 = do not know
 reviews$Statement_12b3 (K. The writing style in a novel is of more importance to me than its story)
 The respondent stated to very much agree (1) with the statement or very much disagree (5), 6 = do not know
