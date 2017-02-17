@@ -1,0 +1,17 @@
+
+importFrom(utils, head, read.table, write.csv, write.table)
+
+#export(
+#  assign.plot.colors,
+#  classify,
+#  crossv,
+#  zeta.chisquare,
+#  zeta.craig,
+#  zeta.eder
+#)
+
+#S3method(print, stylo.results)
+#S3method(print, stylo.corpus)
+#S3method(print, stylo.data)
+#S3method(summary, stylo.results)
+#S3method(summary, stylo.corpus)
