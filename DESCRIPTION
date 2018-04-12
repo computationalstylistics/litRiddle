@@ -1,8 +1,8 @@
 Package: litRiddle
 Type: Package
 Title: R Package to Research the Riddle of Literary Quality
-Version: 0.1.2
-Date: 2017-10-30
+Version: 0.1.3
+Date: 2018-03-26
 Author: Maciej Eder, Joris van Zundert, Corina Koolen, Karina van Dalen-Oskam
 Maintainer: Maciej Eder <maciejeder@gmail.com>
 URL: http://literaryquality.huygens.knaw.nl/
